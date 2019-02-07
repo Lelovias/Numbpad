@@ -36,7 +36,7 @@ void loop(){
   if (u == 0 && i ==  0){
       key = keypad.getKey();
   }
-  key = keypad.getKey();
+ 
 
   if (u  > 0) {
     key3 = keypad.getKey();
